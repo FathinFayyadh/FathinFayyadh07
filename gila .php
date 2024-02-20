@@ -1,4 +1,4 @@
 <?php 
 echo "satu dua tiga em-pat";
 
-echo "fathin  palsu semua";
+echo "fathin dan suci dan eka";
